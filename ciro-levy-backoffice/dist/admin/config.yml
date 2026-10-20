@@ -1,7 +1,7 @@
 {
   "backend": {
     "name": "github",
-    "repo": "PENDIENTE/ciro-levy",
+    "repo": "interfin73/web-CL",
     "branch": "main"
   },
   "locale": "es",
