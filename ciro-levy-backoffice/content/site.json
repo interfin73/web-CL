@@ -1,19 +1,18 @@
 {
-  "story_second": "Este es un espacio para esas canciones: las que hablan de volver, de aprender a soltar y de encontrar algo bonito en medio de un día cualquiera.",
-  "story_first": "Hay historias que no necesitan levantar la voz. Basta una guitarra, unas pocas palabras y alguien al otro lado dispuesto a escuchar.",
-  "hero_image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=2000&q=85",
   "live_text": "Todavía no hay fechas anunciadas. Vuelve pronto para conocer los próximos conciertos.",
-  "intro": "Para los días lentos.\nPara lo que cuesta decir.\nPara quedarnos un ratito más.",
-  "contact_text": "Una sala pequeña, un proyecto bonito o algo que te gustaría contar. Aquí hay sitio.",
-  "story_heading": "Lo sencillo\ntambién llega\nmuy dentro.",
   "live_title": "Las mejores canciones se comparten.",
-  "tagline": "Una voz. Seis cuerdas. Nada más.",
-  "live_heading": "El próximo encuentro.",
-  "music_heading": "Hechas para sentir.",
+  "story_first": "Dale a tu cuerpo alegria macarena porque a tu cuerpo le gusta nose",
   "artist": "Ciro Levy",
   "brand": "ciro levy",
-  "headline": "Canciones",
+  "music_heading": "Hechas para sentir.",
+  "contact_text": "Una sala pequeña, un proyecto bonito o algo que te gustaría contar. Aquí hay sitio.",
+  "intro": "Para los días lentos.\nPara lo que cuesta decir.\nPara quedarnos un ratito más.",
+  "tagline": "Una voz. Seis cuerdas. Nada más.",
+  "live_heading": "El próximo encuentro.",
   "headline_end": "prisa.",
+  "headline": "Canciones",
+  "hero_image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=2000&q=85",
+  "story_heading": "Lo sencillo\ntambién llega\nmuy dentro.",
   "email": "",
   "songs": [
     {
@@ -34,5 +33,6 @@
       "url": "https://open.spotify.com/track/72iGgq0GXyqJPmrQDI6k1v",
       "cover": "https://i.scdn.co/image/ab67616d0000e1a3fe9d1f0d9af96b64edaa6ccb"
     }
-  ]
+  ],
+  "story_second": "Este es un espacio para esas canciones: las que hablan de volver, de aprender a soltar y de encontrar algo bonito en medio de un día cualquiera."
 }
