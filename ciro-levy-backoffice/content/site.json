@@ -1,6 +1,7 @@
 {
   "live_text": "Todavía no hay fechas anunciadas. Vuelve pronto para conocer los próximos conciertos.",
   "live_title": "Las mejores canciones se comparten.",
+  "videos_intro": "Tres canciones, otra forma de sentirlas.",
   "story_first": "Dale a tu cuerpo alegria macarena porque a tu cuerpo le gusta nose",
   "artist": "Ciro Levy",
   "brand": "ciro levy",
@@ -11,9 +12,24 @@
   "live_heading": "El próximo encuentro.",
   "headline_end": "prisa.",
   "headline": "Canciones",
-  "hero_image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=2000&q=85",
+  "hero_image": "",
   "story_heading": "Lo sencillo\ntambién llega\nmuy dentro.",
-  "email": "",
+  "videos": [
+    {
+      "title": "Puente y Sendero",
+      "youtube_id": "u0aLg-ptHv4"
+    },
+    {
+      "title": "Este Sol",
+      "youtube_id": "36v0AeLIy9I"
+    },
+    {
+      "title": "Un Barquito, una Estrella y el Mar",
+      "youtube_id": "wSyyNyxssyE"
+    }
+  ],
+  "videos_heading": "Música para ver.",
+  "email": "alejandrofernadez1995@gmail.com",
   "songs": [
     {
       "title": "Macacú",
@@ -40,21 +56,5 @@
       "cover": "https://i.scdn.co/image/ab67616d0000e1a3fe9d1f0d9af96b64edaa6ccb"
     }
   ],
-  "story_second": "Este es un espacio para esas canciones: las que hablan de volver, de aprender a soltar y de encontrar algo bonito en medio de un día cualquiera.",
-  "videos_heading": "Música para ver.",
-  "videos_intro": "Tres canciones, otra forma de sentirlas.",
-  "videos": [
-    {
-      "title": "Puente y Sendero",
-      "youtube_id": "u0aLg-ptHv4"
-    },
-    {
-      "title": "Este Sol",
-      "youtube_id": "36v0AeLIy9I"
-    },
-    {
-      "title": "Un Barquito, una Estrella y el Mar",
-      "youtube_id": "wSyyNyxssyE"
-    }
-  ]
+  "story_second": "Este es un espacio para esas canciones: las que hablan de volver, de aprender a soltar y de encontrar algo bonito en medio de un día cualquiera."
 }
