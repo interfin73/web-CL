@@ -32,7 +32,29 @@
       "credits": "Ciro Levy · 3:43",
       "url": "https://open.spotify.com/track/72iGgq0GXyqJPmrQDI6k1v",
       "cover": "https://i.scdn.co/image/ab67616d0000e1a3fe9d1f0d9af96b64edaa6ccb"
+    },
+    {
+      "title": "Las Preguntas",
+      "credits": "Ciro Levy · 3:09",
+      "url": "https://open.spotify.com/track/3S2u4gx96XqdxRsvYT6kJD",
+      "cover": "https://i.scdn.co/image/ab67616d0000e1a3fe9d1f0d9af96b64edaa6ccb"
     }
   ],
-  "story_second": "Este es un espacio para esas canciones: las que hablan de volver, de aprender a soltar y de encontrar algo bonito en medio de un día cualquiera."
+  "story_second": "Este es un espacio para esas canciones: las que hablan de volver, de aprender a soltar y de encontrar algo bonito en medio de un día cualquiera.",
+  "videos_heading": "Música para ver.",
+  "videos_intro": "Tres canciones, otra forma de sentirlas.",
+  "videos": [
+    {
+      "title": "Puente y Sendero",
+      "youtube_id": "u0aLg-ptHv4"
+    },
+    {
+      "title": "Este Sol",
+      "youtube_id": "36v0AeLIy9I"
+    },
+    {
+      "title": "Un Barquito, una Estrella y el Mar",
+      "youtube_id": "wSyyNyxssyE"
+    }
+  ]
 }

@@ -144,6 +144,41 @@
                   "widget": "image"
                 }
               ]
+            },
+            {
+              "name": "videos_heading",
+              "label": "Título de Vídeos",
+              "widget": "string",
+              "default": "Música para ver."
+            },
+            {
+              "name": "videos_intro",
+              "label": "Introducción de Vídeos",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "videos",
+              "label": "Vídeos de YouTube",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Título",
+                  "widget": "string"
+                },
+                {
+                  "name": "youtube_id",
+                  "label": "Identificador de YouTube",
+                  "widget": "string",
+                  "hint": "Los 11 caracteres que siguen a v= en el enlace. Ejemplo: u0aLg-ptHv4",
+                  "pattern": [
+                    "^[A-Za-z0-9_-]{11}$",
+                    "Introduce un identificador de YouTube de 11 caracteres"
+                  ]
+                }
+              ]
             }
           ]
         }
