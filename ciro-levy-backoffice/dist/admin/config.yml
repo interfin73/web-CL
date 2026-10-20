@@ -1,0 +1,153 @@
+{
+  "backend": {
+    "name": "github",
+    "repo": "PENDIENTE/ciro-levy",
+    "branch": "main"
+  },
+  "locale": "es",
+  "media_folder": "dist/uploads",
+  "public_folder": "/uploads",
+  "collections": [
+    {
+      "name": "website",
+      "label": "Web de Ciro Levy",
+      "files": [
+        {
+          "name": "site",
+          "label": "Contenido de la página",
+          "file": "content/site.json",
+          "fields": [
+            {
+              "name": "story_second",
+              "label": "Biografía: segundo párrafo",
+              "widget": "text",
+              "required": false
+            },
+            {
+              "name": "story_first",
+              "label": "Biografía: primer párrafo",
+              "widget": "text",
+              "required": false
+            },
+            {
+              "name": "hero_image",
+              "label": "Fotografía principal",
+              "widget": "image",
+              "required": false
+            },
+            {
+              "name": "live_text",
+              "label": "Información de conciertos",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "intro",
+              "label": "Introducción",
+              "widget": "text",
+              "required": false
+            },
+            {
+              "name": "contact_text",
+              "label": "Presentación de contacto",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "story_heading",
+              "label": "Título de Mi historia",
+              "widget": "text",
+              "required": false
+            },
+            {
+              "name": "live_title",
+              "label": "Mensaje de conciertos",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "tagline",
+              "label": "Lema",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "live_heading",
+              "label": "Título de conciertos",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "music_heading",
+              "label": "Título de Música",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "artist",
+              "label": "Nombre del artista",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "brand",
+              "label": "Nombre en el logotipo",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "headline",
+              "label": "Titular principal",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "headline_end",
+              "label": "Final del titular",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "email",
+              "label": "Correo de contacto",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "name": "songs",
+              "label": "Canciones",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Título",
+                  "widget": "string"
+                },
+                {
+                  "name": "credits",
+                  "label": "Artista y duración",
+                  "widget": "string"
+                },
+                {
+                  "name": "url",
+                  "label": "Enlace de Spotify",
+                  "widget": "string",
+                  "pattern": [
+                    "^https://open\\.spotify\\.com/track/[A-Za-z0-9]+$",
+                    "Pega el enlace de la canción en Spotify"
+                  ]
+                },
+                {
+                  "name": "cover",
+                  "label": "Portada",
+                  "widget": "image"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

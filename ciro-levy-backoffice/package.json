@@ -1,0 +1,7 @@
+{
+  "name": "ciro-levy-website",
+  "private": true,
+  "scripts": {
+    "build": "node build.cjs"
+  }
+}
