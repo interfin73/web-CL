@@ -5,7 +5,7 @@
     "branch": "main"
   },
   "locale": "es",
-  "media_folder": "dist/uploads",
+  "media_folder": "ciro-levy-backoffice/dist/uploads",
   "public_folder": "/uploads",
   "collections": [
     {
@@ -15,7 +15,7 @@
         {
           "name": "site",
           "label": "Contenido de la página",
-          "file": "content/site.json",
+          "file": "ciro-levy-backoffice/content/site.json",
           "fields": [
             {
               "name": "story_second",
